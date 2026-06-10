@@ -1,8 +1,8 @@
 # Hi, I'm Zhuman 👋
 
-Frontend Developer from Kazakhstan 🇰🇿
+Software engineer from Kazakhstan 🇰🇿
 
-I build modern web applications and continuously expand my knowledge in software engineering, cybersecurity, and AI.
+Cybersecurity student and 2026 high school graduate from Kazakhstan. Alongside my studies, I build modern websites and continuously develop my skills in software engineering, web technologies, and security.
 
 ## What I'm Focused On
 
@@ -31,30 +31,10 @@ Alongside frontend development, I actively study cybersecurity, Linux systems, a
 - Next.js
 - Tailwind CSS
 
-### My starter-pack
-- GitHub
-- Linux
-- VS Code
-
-## Current Goals
-
-- Build production-quality projects
-- Deepen React and TypeScript expertise
-- Strengthen software engineering fundamentals
-- Expand cybersecurity knowledge
-- Contribute to open-source projects
-
-## Beyond Coding
-
-- Chess
-- Reading
-- Fitness
-- Language Learning (English & French)
-
 ## Contact
 
 - GitHub: https://github.com/Zhumanio08
 - LinkedIn: https://www.linkedin.com/in/zhuman-temirkhan-b15638312/
-- Email: temirkhanzhuman@gmail.cpm
+- Email: temirkhanzhuman@gmail.com
 
 ---
