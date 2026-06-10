@@ -2,15 +2,12 @@
 
 Software engineer from Kazakhstan 🇰🇿
 
-Cybersecurity student and 2026 high school graduate from Kazakhstan. Alongside my studies, I build modern websites and continuously develop my skills in software engineering, web technologies, and security.
+## Current Focus
 
-## What I'm Focused On
-
-- Frontend Development
-- React & TypeScript
-- Linux Environment
-- Cybersecurity Fundamentals
-- AI-assisted Development
+- Cybersecurity Studies
+- Modern Web Technologies
+- Linux Systems
+- AI Tools for Development
 
 ## About Me
 
