@@ -1,6 +1,13 @@
 # 💫 About Me:
-# Hi, I'm Zhuman 👋<br><br>Software engineer from Kazakhstan 🇰🇿<br><br>## Current Focus<br><br>- Cybersecurity Studies<br>- Modern Web Technologies<br>- Linux Systems<br>- AI Tools for Development<br><br>## About Me<br><br>I'm a software engineering student with a strong interest in building practical products and understanding how technology works beyond the user interface.<br><br>Alongside frontend development, I actively study cybersecurity, Linux systems, and modern AI tools to become a more versatile engineer.<br><br>## Technical Skills<br><br>### Languages<br>- JavaScript<br>- Java<br>- Python<br>- GO<br><br>### Frontend<br>- React<br>- Next.js<br>- Tailwind CSS<br><br>## Contact<br><br>- GitHub: https://github.com/Zhumanio08<br>- LinkedIn: https://www.linkedin.com/in/zhuman-temirkhan-b15638312/<br>- Email: temirkhanzhuman@gmail.com<br><br>---<br>
+Hi, I'm a 17-year-old programmer from Kazakhstan.
 
+I focus on web development and building real-world applications, with a strong interest in cybersecurity and Web3 technologies.
+
+Most of my experience comes from hands-on development — building websites, experimenting with tools, and working on personal projects.
+
+Currently, I'm developing **MasterENT**, a platform for ENT exam preparation using practice tests and structured learning.
+
+I prefer learning through building, iterating, and shipping real products rather than staying in theory.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tocuki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/temirkhan.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/superzhumanio/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Tocuki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:temirkhanzhuman@gmail.com) 
