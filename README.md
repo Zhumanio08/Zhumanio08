@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a 18-year-old programmer\cybersecurity student in Narxoz University  from Kazakhstan.<br><br>I focus on web development and building real-world applications, with a strong interest in cybersecurity and Web3 technologies.<br><br>Most of my experience comes from hands-on development - building websites, experimenting with p.l, and working on own projects.<br><br>Currently, I'm developing own framework in Java, but it's actually in planning-stage.<br><br>
+Hi, I'm a 18-year-old programmer\cybersecurity student in Narxoz University  from Kazakhstan.<br><br>I focus on web development and building real-world applications, with a strong interest in cybersecurity and Web3 technologies.<br><br>Most of my experience comes from hands-on development - building websites, experimenting with p.l, and working on own projects.<br><br>Currently, I'm developing own framework in Java which name is Scriptum. All detail about my projects bellow<br><br>
 
 
 ## 🌐 Socials:
